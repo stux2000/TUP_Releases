@@ -1,0 +1,11 @@
+This is an "emergency" release to support Pale Moon 28.
+
+Known Issues:
+* The Tab Groups' tab twisty icon does not show up, I have been unable to determine why.
+
+Workarounds:
+* The keystroke [Ctrl][Alt]-[+] will expand the current selected tab group 
+** (or all tab groups if none are selected or the current tab group is already expanded)
+* The keystroke [Ctrl][Alt]-[-] will collapse the current selected tab group 
+** (or all tab groups if none are selected or the current tab group is already collapsed)
+* Right click on a tab group tab, under the "Tab Stack" submenu select "Expand Stack" or "Collapse" stack as needed.
