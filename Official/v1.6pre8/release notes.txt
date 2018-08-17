@@ -1,0 +1,7 @@
+What's new in version 1.6pre8:
+* Fixed multiple tabs not closing on FF24.
+* Included partial locale information from "Tab Utilities Locales" extension.  Newer/missing fields will show original English.  More complete support will be included at a later time.
+
+
+Note for Reviewers:
+Most of the code from the previous version is intact, however it has been separated into several source files for easier future maintenance.  The formatting of the code has also been changed.
